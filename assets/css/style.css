@@ -8,6 +8,10 @@ header, main, footer {
 }
 }
 
+body {
+    background-color: whitesmoke;
+}
+
 .sidenav {
     width: 200px;
 }
