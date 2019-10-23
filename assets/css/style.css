@@ -83,5 +83,20 @@ h5 {
 }
 
 .port-main {
-    margin: 30px
+    margin: 80px 30px 30px 30px;
+}
+
+.p-link {
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.p-link:hover {
+    border: 1px solid purple;
+    border-radius: 4px;
+    background-color: whitesmoke;
+}
+
+.card .card-action {
+    border-top: 1px solid #9e9d24;
 }
