@@ -27,7 +27,7 @@ body {
     background-color: whitesmoke;
 }
 
-#portfolio {
+#port {
     border-top: 1px solid #9e9d24;
 }
 
@@ -69,7 +69,7 @@ h1 {
     line-height: 1.5;
 }
 
-.footer {
+.divide {
     padding: 15px;
 }
 
