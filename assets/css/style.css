@@ -107,3 +107,6 @@ h5 {
     border-top: 1px solid #9e9d24;
 }
 
+.card-content {
+    overflow: scroll;
+}
