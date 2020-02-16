@@ -85,7 +85,7 @@ h5 {
 
 .p-card {
     font-family: 'Raleway', sans-serif;
-    line-height: 1.7;
+    line-height: 1.5;
 }
 
 .port-main {
@@ -107,6 +107,6 @@ h5 {
     border-top: 1px solid #9e9d24;
 }
 
-.card-content {
-    overflow: scroll;
+.card-image {
+    
 }
